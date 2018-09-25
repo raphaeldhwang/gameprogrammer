@@ -3,8 +3,19 @@ How to become a game programmer?
 
 **Table of Contents**
 - [gameprogrammer](#gameprogrammer)
+    - [Programming Languages](#programming-languages)
     - [Disciplines](#disciplines)
     - [Books](#books)
+
+## Programming Languages
+
+- C/C++
+
+    Almost all high performance game engines are written in C/C++, so it's important to learn and master them. Also, knowing *build configurations* is helpful.
+
+    Books:
+
+    
 
 ## Disciplines
 
